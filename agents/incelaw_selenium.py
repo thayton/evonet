@@ -59,6 +59,9 @@ class InceLawScraper(object):
 
         self.driver.quit()
 
+def get_scraper():
+    return InceLawScraper()
+
 if __name__ == '__main__':
     scraper = InceLawScraper()
     scraper.scrape()        
