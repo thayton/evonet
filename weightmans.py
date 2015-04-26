@@ -63,7 +63,11 @@ class WeightmansScraper(object):
         x = {'class': 'maincontent-full'}
         d = s.find('div', attrs=x)
 
-        # URL, name, job title and location
+        #
+        # <URL, name, job title and location>
+        #
+        # Return a blank if there is no job title or location, the only required fields are URL and name
+        #
         person = {}
         person['name'] = name_item.name
         person['url'] = self.br.geturl()
