@@ -1,4 +1,3 @@
-Skipping plugin <module 'incelaw' from 'agents/incelaw.pyc'>
 {'url': u'http://incelaw.com/en/ourpeople/robin-acworth', 'location': u'London', 'name': u'Robin Acworth', 'job_title': u'Solicitor'}
 {'url': u'http://incelaw.com/en/ourpeople/jonas-adolfsson', 'location': u'London', 'name': u'Jonas Adolfsson', 'job_title': u'Solicitor'}
 {'url': u'http://incelaw.com/en/ourpeople/ajay-ahluwalia', 'location': u'Beijing', 'name': u'Ajay Ahluwalia', 'job_title': u'Solicitor, Shanghai'}
