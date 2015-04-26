@@ -9,7 +9,9 @@ from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup
 from time import sleep
 
-link = 'http://incelaw.com/en/ourpeople/'
+PLUGINFO = {
+    'url': 'http://incelaw.com/en/ourpeople/'
+}
 
 class InceLawScraper(object):
     def __init__(self):
@@ -17,7 +19,7 @@ class InceLawScraper(object):
         self.driver.set_window_size(1120, 550)
 
     def scrape(self):
-        self.driver.get(link)
+        self.driver.get(PLUGINFO['url'])
         
         for letter in string.uppercase:
             elem = self.driver.find_element_by_xpath("//a[text()='%s']" % letter)
