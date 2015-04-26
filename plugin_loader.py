@@ -67,6 +67,7 @@ class PluginLoader:
                     # the 'skip' attribute. 
                     #
                     if getattr(plug, 'skip', None) != None:
+                        print 'Skipping plugin %s' % plug
                         continue
 
                     self.plugins.append(plug)
