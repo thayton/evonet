@@ -12,6 +12,10 @@ import requests
 
 from bs4 import BeautifulSoup, Comment, Tag
 
+PLUGINFO = {
+    'url': 'http://incelaw.com/en/ourpeople/search-results'
+}
+
 def soupify(page):
     s = BeautifulSoup(page)
 
@@ -137,6 +141,9 @@ class InceLawScraper(object):
             
                 url = urlparse.urljoin(resp.url, a['href'])
                 cookie_data['page_num'] = '0'
+
+def get_scraper():
+    return InceLawScraper()
 
 if __name__ == '__main__':
     scraper = InceLawScraper()

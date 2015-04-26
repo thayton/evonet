@@ -12,6 +12,10 @@ import mechanize
 from bs4 import BeautifulSoup, Comment, Tag
 from mechanize import ControlNotFoundError
 
+PLUGINFO = {
+    'url': 'http://www.weightmans.com/our-people/'
+}
+
 def soupify(page):
     s = BeautifulSoup(page)
 
@@ -69,7 +73,7 @@ class WeightmansScraper(object):
         # Return a blank if there is no job title or location, the only required fields are URL and name
         #
         person = {}
-        person['name'] = name_item.name
+        person['name'] = name_item.attrs.get('label')
         person['url'] = self.br.geturl()
         person['job_title'] = ''
         person['location'] = ''
@@ -80,6 +84,9 @@ class WeightmansScraper(object):
         for name_item in name_items:
             print 'scraping', name_item
             self.scrape_person(name_item)
+
+def get_scraper():
+    return WeightmansScraper()
 
 if __name__ == '__main__':
     scraper = WeightmansScraper()

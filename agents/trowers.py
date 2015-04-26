@@ -12,6 +12,10 @@ import mechanize
 from bs4 import BeautifulSoup, Comment, Tag
 from mechanize import ControlNotFoundError
 
+PLUGINFO = {
+    'url': 'http://www.trowers.com/people'
+}
+
 def soupify(page):
     s = BeautifulSoup(page)
 
@@ -74,6 +78,9 @@ class TrowersScraper(object):
                 pageno += 1
             except mechanize.LinkNotFoundError:
                 break # fin- no more pages
+
+def get_scraper():
+    return TrowersScraper()
 
 if __name__ == '__main__':
     scraper = TrowersScraper()
