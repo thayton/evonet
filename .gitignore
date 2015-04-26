@@ -5,3 +5,4 @@ staticfiles
 *.swp
 *#
 migrations
+ghostdriver.log
