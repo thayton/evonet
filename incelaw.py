@@ -92,39 +92,51 @@ class InceLawScraper(object):
         #   d['letter_search'] = 'A'
         #   '|||||||'.join(d.values())
         #
-        search_cookie = {}
-        search_cookie['op_data'] = '1||||||A'
-        resp = requests.get(self.url, headers=self.headers, cookies=search_cookie)
-        print resp.cookies
+        cookie = {}
+        cookie_data = {}
+        cookie_data['page_num'] = '1'
 
-        pageno = 2
+        for letter in string.uppercase:
+            cookie_data['letter_search'] = letter
 
-        while True:
-            s = BeautifulSoup(resp.text)
-            r = re.compile(r'^/en/ourpeople/[^/]+$')
-            x = {'class': 'person-link', 'href': r}
+            pageno = 2
+            url = self.url
 
-            for a in s.findAll('a', attrs=x):
-                if a.img:
-                    continue
+            while True:
+                cookie['op_data'] = '||||||'.join(cookie_data.values())
+                resp = requests.get(url, headers=self.headers, cookies=cookie)
 
-                h2 = a.findParent('h2')
-                sp = h2.findAll('span')
-                last_span_split = sp[-1].text.strip().rsplit(',', 1)
+                s = BeautifulSoup(resp.text)
+                r = re.compile(r'^/en/ourpeople/[^/]+$')
+                x = {'class': 'person-link', 'href': r}
 
-                # URL, name, job title and location
-                person = {}
-                person['name'] = a.text.strip()
-                person['url'] = urlparse.urljoin(resp.url, a['href'])
-                person['job_title'] = last_span_split[0]  
-                person['location'] = last_span_split[1] if len(last_span_split) > 1 else ''
-                print person
+                for a in s.findAll('a', attrs=x):
+                    if a.img:
+                        continue
 
-            # Pagination
-            r = re.compile(r'^/en/ourpeople/search-results\?page=%d' % pageno)
-            a = s.find('a', href=r)
-            if not a:
-                break
+                    h2 = a.findParent('h2')
+                    sp = h2.findAll('span')
+                    last_span_split = ['%s' % z.strip() for z in sp[-1].text.rsplit(',', 1)]
+
+                    # URL, name, job title and location
+                    person = {}
+                    person['name'] = a.text.strip()
+                    person['url'] = urlparse.urljoin(resp.url, a['href'])
+                    person['job_title'] = last_span_split[0]  
+                    person['location'] = last_span_split[1] if len(last_span_split) > 1 else ''
+                    print person
+
+                # Pagination
+                r = re.compile(r'^/en/ourpeople/search-results\?page=%d' % pageno)
+                a = s.find('a', href=r)
+
+                if not a:
+                    break
+
+                pageno += 1
+            
+                url = urlparse.urljoin(resp.url, a['href'])
+                cookie_data['page_num'] = '0'
 
 if __name__ == '__main__':
     scraper = InceLawScraper()
