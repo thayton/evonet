@@ -21,5 +21,5 @@ The regular expression will apply to the filename.
 ## Run all of the agents
     $ ./scraper.py -d agents/ -r '.*'
 
-## Run only agents who filename begins with the string 'wei'
+## Run only agents whose filename begins with the string 'wei'
     $ ./scraper.py -d agents/ -r '^wei'
