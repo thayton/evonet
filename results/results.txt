@@ -1,0 +1,900 @@
+Skipping plugin <module 'incelaw' from 'agents/incelaw.pyc'>
+{'url': u'http://incelaw.com/en/ourpeople/robin-acworth', 'location': u'London', 'name': u'Robin Acworth', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/jonas-adolfsson', 'location': u'London', 'name': u'Jonas Adolfsson', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/ajay-ahluwalia', 'location': u'Beijing', 'name': u'Ajay Ahluwalia', 'job_title': u'Solicitor, Shanghai'}
+{'url': u'http://incelaw.com/en/ourpeople/rita-al-semaani-jansen', 'location': u'Dubai', 'name': u'Rita Al Semaani Jansen', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/su-yin-anand', 'location': u'Hong Kong', 'name': u'Su Yin Anand', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/anna-anatolitou', 'location': u'London', 'name': u'Anna Anatolitou', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/franco-dandrea', 'location': u'London', 'name': u'Franco D\u2019 Andrea', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/george-asproukos', 'location': u'Piraeus', 'name': u'George Asproukos', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/david-baker', 'location': u'London', 'name': u'David Baker', 'job_title': u'Global Head of Ship Finance'}
+{'url': u'http://incelaw.com/en/ourpeople/gillie-belsham', 'location': u'London', 'name': u'Gillie Belsham', 'job_title': u'Global Head of Aviation, Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/alexandra-bailey', 'location': u'Dubai', 'name': u'Alexandra Bailey', 'job_title': u'Legal Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/joanna-bailey', 'location': u'London', 'name': u'Joanna Bailey', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/david-banks', 'location': u'London', 'name': u'David Banks', 'job_title': u'Admiralty Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/renaud-barbier-emery', 'location': u'London', 'name': u'Renaud Barbier-Emery', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/natalya-beam', 'location': u'London', 'name': u'Natalya Beam', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/david-beaves', 'location': u'Hong Kong', 'name': u'David Beaves', 'job_title': u'Senior Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/claudia-becker', 'location': u'Hamburg', 'name': u'Claudia  Becker', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/johannes-beiderwieden', 'location': u'Hamburg', 'name': u'Johannes  Beiderwieden', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/david-berkeley', 'location': u'Singapore', 'name': u'David Berkeley', 'job_title': u'Marine Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/rachel-bernie', 'location': u'London', 'name': u'Rachel Bernie', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/matthew-berry', 'location': u'London', 'name': u'Matthew Berry', 'job_title': u'Marine Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/alexandre-besnard', 'location': u'Paris', 'name': u'Alexandre Besnard', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/jeremy-biggs', 'location': u'London', 'name': u'Jeremy  Biggs', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/paul-billowes', 'location': u'London', 'name': u'Paul  Billowes', 'job_title': u'Admiralty Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/william-blagbrough', 'location': u'Hong Kong', 'name': u'William Blagbrough', 'job_title': u'Registered Foreign Lawyer Solicitor (England & Wales)'}
+{'url': u'http://incelaw.com/en/ourpeople/brian-boahene', 'location': u'Dubai', 'name': u'Brian Boahene', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/daniel-boden', 'location': u'London', 'name': u'Daniel Boden', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/kate-bottomley', 'location': u'London', 'name': u'Kate Bottomley', 'job_title': u'General Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/can-bozyakali', 'location': u'Hamburg', 'name': u'Can Bozyakali', 'job_title': u'Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/martin-brown', 'location': u'Singapore', 'name': u'Martin Brown', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/joanna-brown', 'location': u'London', 'name': u'Joanna  Brown', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/nick-burgess', 'location': u'London', 'name': u'Nick Burgess', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/katy-carr', 'location': u'London', 'name': u'Katy Carr', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/evangelos-catsambas', 'location': u'Piraeus', 'name': u'Evangelos Catsambas', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/kirsty-cattanach', 'location': u'Hong Kong', 'name': u'Kirsty Cattanach', 'job_title': u'Senior Registered Foreign Lawyer'}
+{'url': u'http://incelaw.com/en/ourpeople/sharon-chan', 'location': u'Hong Kong', 'name': u'Sharon Chan', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/andrew-charlier', 'location': u'Paris', 'name': u'Andrew Charlier', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/zhinan-chen', 'location': u'Hong Kong', 'name': u'Zhinan Chen', 'job_title': u'PRC Lawyer'}
+{'url': u'http://incelaw.com/en/ourpeople/simon-cheng', 'location': u'Hong Kong', 'name': u'Simon Cheng', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/ian-chetwood', 'location': u'London', 'name': u'Ian Chetwood', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/sami-chowdhury', 'location': u'Hamburg', 'name': u'Sami Chowdhury', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/david-choy', 'location': u'London', 'name': u'David Choy', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/ben-conway', 'location': u'London', 'name': u'Ben Conway', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/kevin-cooper', 'location': u'London', 'name': u'Kevin Cooper', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/simon-cooper', 'location': u'London', 'name': u'Simon Cooper', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/philippe-corruble', 'location': u'Paris', 'name': u'Philippe Corruble', 'job_title': u'Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/dora-costa', 'location': u'London', 'name': u'Dora Costa', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/chris-crane', 'location': u'London', 'name': u'Chris  Crane', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/ian-cranston', 'location': u'Monaco', 'name': u'Ian Cranston', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/mathieu-croix', 'location': u'Le Havre', 'name': u'Mathieu Croix', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/max-cross', 'location': u'Hong Kong', 'name': u'Max Cross', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/marco-crusafio', 'location': u'Monaco', 'name': u'Marco Crusafio', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/penny-cygan-jones', 'location': u'London', 'name': u'Penny  Cygan-Jones', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/martin-david', 'location': u'Singapore', 'name': u'Martin David', 'job_title': u'Head of Energy, Asia, Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/mark-de-la-haye', 'location': u'London', 'name': u'Mark de la Haye', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/cyrille-de-salins', 'location': u'Paris', 'name': u'Cyrille de Salins', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/jerome-de-sentenac', 'location': u'Le Havre', 'name': u'J\xe9r\xf4me de Sentenac', 'job_title': u'Partner, Paris'}
+{'url': u'http://incelaw.com/en/ourpeople/aymeric-de-tapol', 'location': u'Paris', 'name': u'Aymeric de Tapol', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/bob-deering', 'location': u'London', 'name': u'Bob Deering', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/freddy-desplanques', 'location': u'Le Havre', 'name': u'Freddy Desplanques', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/anna-devereaux', 'location': u'London', 'name': u'Anna Devereaux', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/samuel-ding', 'location': u'Shanghai', 'name': u'Samuel Ding', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/anastasia-dola', 'location': u'Piraeus', 'name': u'Anastasia Dola', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/james-drummond', 'location': u'London', 'name': u'James Drummond', 'job_title': u'Marine Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/mette-duffy', 'location': u'London', 'name': u'Mette Duffy', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/christian-dwyer', 'location': u'London', 'name': u'Christian Dwyer', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/catherine-earnshaw', 'location': u'London', 'name': u'Catherine  Earnshaw', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/amaka-edomobi', 'location': u'Dubai', 'name': u'Amaka Edomobi', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/markus-eichhorst', 'location': u'Hamburg', 'name': u'Markus Eichhorst', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/mohamed-el-hawawy', 'location': u'Dubai', 'name': u'Mohamed  El Hawawy', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/gabrielle-elise-de-blaquiere', 'location': u'London', 'name': u'Gabrielle Elise de Blaqui\xe8re', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/jonathan-elvey', 'location': u'London', 'name': u'Jonathan Elvey', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/lucy-espley', 'location': u'London', 'name': u'Lucy Espley', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/patrick-evrard', 'location': u'Paris', 'name': u'Patrick Evrard', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/johanna-ewen', 'location': u'London', 'name': u'Johanna Ewen', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/alexandra-ewert', 'location': u'Hamburg', 'name': u'Alexandra  Ewert', 'job_title': u'Corporate Finance Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/jeremy-farr', 'location': u'London', 'name': u'Jeremy Farr', 'job_title': u'Global Head of Energy, Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/laurence-fabre', 'location': u'Paris', 'name': u'Laurence Fabre', 'job_title': u'Of Counsel'}
+{'url': u'http://incelaw.com/en/ourpeople/chris-farmer', 'location': u'London', 'name': u'Chris Farmer', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/victor-fenwick', 'location': u'London', 'name': u'Victor Fenwick', 'job_title': u'Admiralty Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/lorraine-fernandes', 'location': u'London', 'name': u'Lorraine Fernandes', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/jane-fitzgerald', 'location': u'London', 'name': u'Jane  Fitzgerald', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/anna-fomina', 'location': u'Dubai', 'name': u'Anna Fomina', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/stuart-francis', 'location': u'Piraeus', 'name': u'Stuart Francis', 'job_title': u'Admiralty Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/lester-fung', 'location': u'Beijing', 'name': u'Lester Fung', 'job_title': u''}
+{'url': u'http://incelaw.com/en/ourpeople/trevor-garrood', 'location': u'London', 'name': u'Trevor Garrood', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/gilles-gautier', 'location': u'Paris', 'name': u'Gilles Gautier', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/fionna-gavin', 'location': u'London', 'name': u'Fionna Gavin', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/tony-george', 'location': u'London', 'name': u'Tony George', 'job_title': u'Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/raphaele-gerlier', 'location': u'Paris', 'name': u'Rapha\xeble Gerlier', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/dimitris-giomelakis', 'location': u'Piraeus', 'name': u'Dimitris Giomelakis', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/ostiane-goh-livorness', 'location': u'Singapore', 'name': u'Ostiane  Goh-Livorness', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/jonathan-goldfarb', 'location': u'London', 'name': u'Jonathan Goldfarb', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/ted-graham', 'location': u'London', 'name': u'Ted Graham', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/kate-greensmith', 'location': u'London', 'name': u'Kate Greensmith', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/nirada-griffith', 'location': u'London', 'name': u'Nirada  Griffith', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/cheryl-guan', 'location': u'Singapore', 'name': u'Cheryl Guan', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/xu-guo', 'location': u'Beijing', 'name': u'Xu Guo', 'job_title': u'Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/georgina-guy', 'location': u'Paris', 'name': u'Georgina Guy', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/ruaridh-guy', 'location': u'Hong Kong', 'name': u'Ruaridh Guy', 'job_title': u'Registered Foreign Lawyer'}
+{'url': u'http://incelaw.com/en/ourpeople/marcus-gwyer', 'location': u'London', 'name': u'Marcus Gwyer', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/allan-hepworth', 'location': u'London', 'name': u'Allan Hepworth', 'job_title': u'Group Managing Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/paul-herring', 'location': u'London', 'name': u'Paul Herring', 'job_title': u'Chairman and Global Head of Shipping'}
+{'url': u'http://incelaw.com/en/ourpeople/khalid-hamed', 'location': u'Dubai', 'name': u'Khalid Hamed', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/rachel-hedley', 'location': u'London', 'name': u'Rachel Hedley', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/simon-hems', 'location': u'London', 'name': u'Simon Hems', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/jan-heuvels', 'location': u'London', 'name': u'Jan Heuvels', 'job_title': u'International Senior Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/richard-hickey', 'location': u'London', 'name': u'Richard Hickey', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/james-hickland', 'location': u'London', 'name': u'James Hickland', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/harry-hirst', 'location': u'Hong Kong', 'name': u'Harry Hirst', 'job_title': u'Regional Head of Admiralty, Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/paul-ho', 'location': u'Shanghai', 'name': u'Paul Ho', 'job_title': u'Partner, Beijing'}
+{'url': u'http://incelaw.com/en/ourpeople/alan-hodgson', 'location': u'London', 'name': u'Alan Hodgson', 'job_title': u'Director of Finance'}
+{'url': u'http://incelaw.com/en/ourpeople/phillippa-hook', 'location': u'London', 'name': u'Phillippa Hook', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/genelle-horkings', 'location': u'London', 'name': u'Genelle Horkings', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/lisa-howie', 'location': u'London', 'name': u'Lisa  Howie', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/richard-hugg', 'location': u'London', 'name': u'Richard Hugg', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/jan-hungar', 'location': u'Hamburg', 'name': u'Jan Hungar', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/vy-loan-huynh-olivieri', 'location': u'Paris', 'name': u'Vy-Loan Huynh-Olivieri', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/richard-hyman', 'location': u'London', 'name': u'Richard Hyman', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/george-iatridis', 'location': u'Piraeus', 'name': u'George Iatridis', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/chris-jefferis', 'location': u'London', 'name': u'Chris Jefferis', 'job_title': u'Head of Insurance Business Group, Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/antonia-jackson', 'location': u'London', 'name': u'Antonia Jackson', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/stephen-jarvis', 'location': u'London', 'name': u'Stephen Jarvis', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/andrew-jennings', 'location': u'London', 'name': u'Andrew Jennings', 'job_title': u'COFA'}
+{'url': u'http://incelaw.com/en/ourpeople/daniel-jones', 'location': u'Hamburg', 'name': u'Daniel Jones', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/roderic-jones', 'location': u'London', 'name': u'Roderic Jones', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/anna-joscelyne', 'location': u'London', 'name': u'Anna Joscelyne', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/dimitris-kapsis', 'location': u'Piraeus', 'name': u'Dimitris Kapsis', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/devandran-karunakaran', 'location': u'Singapore', 'name': u'Devandran Karunakaran', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/clare-kempkens', 'location': u'London', 'name': u'Clare Kempkens', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/george-kennedy', 'location': u'London', 'name': u'George Kennedy', 'job_title': u'Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/jamila-khan', 'location': u'Piraeus', 'name': u'Jamila Khan', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/chris-kidd', 'location': u'London', 'name': u'Chris Kidd', 'job_title': u'Head of Shipbuilding, Offshore Construction and Renewables, Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/shawn-kirby', 'location': u'London', 'name': u'Shawn Kirby', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/jennifer-kleiser', 'location': u'London', 'name': u'Jennifer Kleiser', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/cornelia-kunze', 'location': u'Hamburg', 'name': u'Cornelia Kunze', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/albert-levy', 'location': u'London', 'name': u'Albert Levy', 'job_title': u'Global Head of Yachts & Superyachts, Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/antonis-lagadianos', 'location': u'Piraeus', 'name': u'Antonis Lagadianos', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/jonathan-lam', 'location': u'Shanghai', 'name': u'Jonathan Lam', 'job_title': u''}
+{'url': u'http://incelaw.com/en/ourpeople/rosita-lau', 'location': u'Hong Kong', 'name': u'Rosita Lau', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/ronan-le-du', 'location': u'Piraeus', 'name': u'Ronan Le Du', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/solange-leandro', 'location': u'London', 'name': u'Solange Leandro', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/mathieu-leclerc', 'location': u'Le Havre', 'name': u'Mathieu Leclerc', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/kelvin-lee', 'location': u'Hong Kong', 'name': u'Kelvin Lee', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/georg-lehmann', 'location': u'Hamburg', 'name': u'Georg Lehmann', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/alexis-lemarie', 'location': u'Paris', 'name': u'Alexis  Lemarie', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/alison-lescure', 'location': u'London', 'name': u'Alison Lescure', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/shirley-li', 'location': u'Shanghai', 'name': u'Shirley Li', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/yan-li', 'location': u'London', 'name': u'Yan Li', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/victoria-liaou', 'location': u'Piraeus', 'name': u'Victoria Liaou', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/charmaine-lim', 'location': u'Singapore', 'name': u'Charmaine Lim', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/jonathan-lim', 'location': u'Singapore', 'name': u'Jonathan Lim', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/michelle-linderman', 'location': u'London', 'name': u'Michelle Linderman', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/charles-lockwood', 'location': u'London', 'name': u'Charles Lockwood', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/jonathan-loftus', 'location': u'London', 'name': u'Jonathan Loftus', 'job_title': u'Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/wai-yue-loh', 'location': u'Shanghai', 'name': u'Wai Yue Loh', 'job_title': u'Partner, Beijing'}
+{'url': u'http://incelaw.com/en/ourpeople/elizabeth-lord', 'location': u'London', 'name': u'Elizabeth Lord', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/richard-lovell', 'location': u'Singapore', 'name': u'Richard Lovell', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/volker-luecke', 'location': u'Hamburg', 'name': u'Volker L\xfccke', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/ina-lutchmiah', 'location': u'London', 'name': u'Ina Lutchmiah', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/rory-macfarlane', 'location': u'Hong Kong', 'name': u'Rory Macfarlane', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/martin-malinowski', 'location': u'Hamburg', 'name': u'Martin Malinowski', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/donald-man', 'location': u'Hong Kong', 'name': u'Donald Man', 'job_title': u'Registered Foreign Lawyer'}
+{'url': u'http://incelaw.com/en/ourpeople/andrea-mangelsdorf', 'location': u'Hamburg', 'name': u'Andrea Mangelsdorf', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/stephen-marais', 'location': u'London', 'name': u'Stephen Marais', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/william-marsh', 'location': u'London', 'name': u'William Marsh', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/will-marshall', 'location': u'London', 'name': u'Will Marshall', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/jean-philippe-maslin', 'location': u'Paris', 'name': u'Jean-Philippe  Maslin', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/louise-mcdonald', 'location': u'London', 'name': u'Louise McDonald', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/david-mcinnes', 'location': u'London', 'name': u'David McInnes', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/ashraf-mohamed', 'location': u'Dubai', 'name': u'Ashraf Mohamed', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/lorraine-mok', 'location': u'Hong Kong', 'name': u'Lorraine Mok', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/ruth-monahan', 'location': u'Monaco', 'name': u'Ruth Monahan', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/ben-moon', 'location': u'London', 'name': u'Ben Moon', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/olivia-murray', 'location': u'London', 'name': u'Olivia Murray', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/stavroula-mylona', 'location': u'Piraeus', 'name': u'Stavroula Mylona', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/kijong-nam', 'location': u'London', 'name': u'Kijong Nam', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/stefanie-noack', 'location': u'Hamburg', 'name': u'Stefanie Noack', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/marie-louise-noel', 'location': u'Paris', 'name': u'Marie-Louise No\xebl', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/alexis-norman', 'location': u'Piraeus', 'name': u'Alexis  Norman', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/hugh-odonovan', 'location': u'London', 'name': u"Hugh O'Donovan", 'job_title': u'Head of Commercial Aviation, Counsel'}
+{'url': u'http://incelaw.com/en/ourpeople/richard-oakley', 'location': u'London', 'name': u'Richard  Oakley', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/ben-ogden', 'location': u'London', 'name': u'Ben Ogden', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/victoria-ogden', 'location': u'London', 'name': u'Victoria  Ogden', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/joe-okeeffe', 'location': u'London', 'name': u"Joe O'Keeffe", 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/hsu-mei-oneill', 'location': u'London', 'name': u"Hsu Mei O'Neill", 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/mike-orton', 'location': u'London', 'name': u'Mike Orton', 'job_title': u'Director of Human Resources'}
+{'url': u'http://incelaw.com/en/ourpeople/georgina-osullivan', 'location': u'London', 'name': u"Georgina O'Sullivan", 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/faz-peermohamed', 'location': u'London', 'name': u'Faz Peermohamed', 'job_title': u'Global Head of Admiralty'}
+{'url': u'http://incelaw.com/en/ourpeople/robin-parry', 'location': u'Piraeus', 'name': u'Robin Parry', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/mona-patel', 'location': u'London', 'name': u'Mona Patel', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/estelle-pattard', 'location': u'Monaco', 'name': u'Estelle Pattard', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/daniel-pembroke', 'location': u'London', 'name': u'Daniel Pembroke', 'job_title': u'Business Development and Pricing Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/camille-percheron', 'location': u'Le Havre', 'name': u'Camille Percheron', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/despina-plomaritou', 'location': u'Piraeus', 'name': u'Despina Plomaritou', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/stuart-plotnek', 'location': u'London', 'name': u'Stuart Plotnek', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/maureen-poh', 'location': u'Singapore', 'name': u'Maureen Poh', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/david-pollard', 'location': u'London', 'name': u'David Pollard', 'job_title': u'Director of Operations'}
+{'url': u'http://incelaw.com/en/ourpeople/florence-preux', 'location': u'London', 'name': u'Florence  Preux', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/gina-pritchard', 'location': u'Dubai', 'name': u'Gina Pritchard', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/christopher-quandt', 'location': u'Hamburg', 'name': u'Christopher Quandt', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/philippe-ruttley', 'location': u'London', 'name': u'Philippe Ruttley', 'job_title': u'Head of EU and Competition Law'}
+{'url': u'http://incelaw.com/en/ourpeople/carrie-radford', 'location': u'London', 'name': u'Carrie Radford', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/goetz-rahne', 'location': u'Hamburg', 'name': u'Goetz Rahne', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/aruno-rajaratnam', 'location': u'Singapore', 'name': u'Aruno Rajaratnam', 'job_title': u'Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/marie-noelle-raynaud', 'location': u'Paris', 'name': u'Marie-No\xeblle Raynaud', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/jonathan-reese', 'location': u'Hamburg', 'name': u'Jonathan Reese', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/christian-reinert', 'location': u'Hamburg', 'name': u'Christian Reinert', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/svenja-reisgis', 'location': u'Hamburg', 'name': u'Svenja  Reisgis', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/david-richards', 'location': u'London', 'name': u'David Richards', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/corin-ricketts_2', 'location': u'Singapore', 'name': u'Corin Ricketts', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/peter-rogan', 'location': u'London', 'name': u'Peter Rogan', 'job_title': u'Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/james-rose', 'location': u'London', 'name': u'James  Rose', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/carlijn-ruers', 'location': u'London', 'name': u'Carlijn Ruers', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/beatrice-russ', 'location': u'London', 'name': u'Beatrice Russ', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/david-rutherford', 'location': u'London', 'name': u'David Rutherford', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/patrick-ryan', 'location': u'London', 'name': u'Patrick Ryan', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/stuart-shepherd', 'location': u'London', 'name': u'Stuart Shepherd', 'job_title': u'Global Head of Trade'}
+{'url': u'http://incelaw.com/en/ourpeople/pavlo-samothrakis', 'location': u'Dubai', 'name': u'Pavlo  Samothrakis', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/martin-sandgren', 'location': u'London', 'name': u'Martin Sandgren', 'job_title': u'Of Counsel'}
+{'url': u'http://incelaw.com/en/ourpeople/lance-sapsford', 'location': u'London', 'name': u'Lance Sapsford', 'job_title': u'Director of Business Development & Marketing'}
+{'url': u'http://incelaw.com/en/ourpeople/tim-schommer', 'location': u'Hamburg', 'name': u'Tim Schommer', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/james-scott', 'location': u'Singapore', 'name': u'James Scott', 'job_title': u'Associate/Marine Manager'}
+{'url': u'http://incelaw.com/en/ourpeople/carol-searle', 'location': u'London', 'name': u'Carol Searle', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/dimitris-seirinakis', 'location': u'Shanghai', 'name': u'Dimitris Seirinakis', 'job_title': u'Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/nilam-sharma', 'location': u'London', 'name': u'Nilam Sharma', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/michael-sharvin', 'location': u'London', 'name': u'Michael Sharvin', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/nick-shepherd', 'location': u'Piraeus', 'name': u'Nick Shepherd', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/sophie-short', 'location': u'London', 'name': u'Sophie Short', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/marine-silliau', 'location': u'Le Havre', 'name': u'Marine Silliau', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/pierre-simon', 'location': u'Paris', 'name': u'Pierre  Simon', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/john-simpson', 'location': u'Singapore', 'name': u'John Simpson', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/daniel-smith', 'location': u'Hamburg', 'name': u'Daniel  Smith', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/kiran-soar', 'location': u'London', 'name': u'Kiran Soar', 'job_title': u'Head of Reinsurance, Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/laura-soyer', 'location': u'Le Havre', 'name': u'Laura Soyer', 'job_title': u'Avocat'}
+{'url': u'http://incelaw.com/en/ourpeople/simon-spark', 'location': u'London', 'name': u'Simon Spark', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/ioannis-stephanou', 'location': u'Piraeus', 'name': u'Ioannis Stephanou', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/matt-stratton', 'location': u'London', 'name': u'Matthew Stratton', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/chuanling-sun', 'location': u'Shanghai', 'name': u'Chuanling Sun', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/rania-tadros', 'location': u'Dubai', 'name': u'Rania Tadros', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/jason-tam', 'location': u'Hong Kong', 'name': u'Jason Tam', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/eileen-tang', 'location': u'Shanghai', 'name': u'Eileen Tang', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/faye-thompson', 'location': u'London', 'name': u'Faye Thompson', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/simon-todd', 'location': u'London', 'name': u'Simon Todd', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/ester-maria-toumpouris', 'location': u'London', 'name': u'Ester Toumpouris', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/chloe-townley', 'location': u'London', 'name': u'Chloe Townley', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/anna-tschiltschke', 'location': u'Hamburg', 'name': u'Anna  Tschiltschke', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/jo-tunstall', 'location': u'London', 'name': u'Jo Tunstall', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/william-turner', 'location': u'London', 'name': u'William  Turner', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/stefan-ullrich', 'location': u'Hamburg', 'name': u'Stefan Ullrich', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/amanda-urwin', 'location': u'London', 'name': u'Amanda Urwin', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/michael-volikas', 'location': u'London', 'name': u'Michael Volikas', 'job_title': u'Managing Partner of Shipping'}
+{'url': u'http://incelaw.com/en/ourpeople/johanna-vogt', 'location': u'Hamburg', 'name': u'Johanna Vogt', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/eckehard-volz', 'location': u'Hamburg', 'name': u'Eckehard Volz', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/fred-vroom', 'location': u'Paris', 'name': u'Fred Vroom', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/victoria-waite', 'location': u'London', 'name': u'Victoria Waite', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/carl-walker', 'location': u'London', 'name': u'Carl Walker', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/chris-walsh', 'location': u'London', 'name': u'Chris Walsh', 'job_title': u'Aviation Consultant'}
+{'url': u'http://incelaw.com/en/ourpeople/ronald-wan', 'location': u'Hong Kong', 'name': u'Ronald  Wan', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/zeldar-wang', 'location': u'Shanghai', 'name': u'Zeldar Wang', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/chris-ward', 'location': u'London', 'name': u'Chris Ward', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/margot-wastnage', 'location': u'London', 'name': u'Margot Wastnage', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/joanne-waters', 'location': u'London', 'name': u'Joanne Waters', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/frank-white', 'location': u'London', 'name': u'Frank White', 'job_title': u'Director of Information Technology'}
+{'url': u'http://incelaw.com/en/ourpeople/julia-wiechell', 'location': u'Hamburg', 'name': u'Julia Wiechell', 'job_title': u'Senior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/james-wilson', 'location': u'London', 'name': u'James Wilson', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/gary-wong', 'location': u'Hong Kong', 'name': u'Gary Wong', 'job_title': u'Partner'}
+{'url': u'http://incelaw.com/en/ourpeople/vincent-xu', 'location': u'Shanghai', 'name': u'Vincent Xu', 'job_title': u'Partner, Beijing'}
+{'url': u'http://incelaw.com/en/ourpeople/elle-young', 'location': u'London', 'name': u'Elle Young', 'job_title': u'Solicitor'}
+{'url': u'http://incelaw.com/en/ourpeople/louie-zhang', 'location': u'Shanghai', 'name': u'Louie Zhang', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/haoran-zhang', 'location': u'Shanghai', 'name': u'Haoran Zhang', 'job_title': u'Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/karissa-zhang', 'location': u'Shanghai', 'name': u'Karissa Zhang', 'job_title': u'Junior Associate'}
+{'url': u'http://incelaw.com/en/ourpeople/adele-zhang', 'location': u'Hong Kong', 'name': u'Adele Zhang', 'job_title': u'PRC Lawyer'}
+{'url': u'http://incelaw.com/en/ourpeople/detlef-zschoche', 'location': u'Hamburg', 'name': u'Detlef Zschoche', 'job_title': u'Consultant'}
+{'url': u'http://www.trowers.com/people/riccardo-abbate/', 'location': u'London', 'name': u'Abbate, Riccardo', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/adam-abdalla/', 'location': u'Oman', 'name': u'Abdalla, Adam', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/joseph-acton/', 'location': u'Exeter', 'name': u'Acton, Joseph', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/saleem-adam/', 'location': u'Abu Dhabi', 'name': u'Adam, Saleem', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/stephanie-adams/', 'location': u'London', 'name': u'Adams, Stephanie', 'job_title': u'Professional Support Lawyer'}
+{'url': u'http://www.trowers.com/people/robert-adjetey/', 'location': u'London', 'name': u'Adjetey, Robert', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/salman-ahmed/', 'location': u'Bahrain', 'name': u'Ahmed, Salman', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/abdullah-al-barwani/', 'location': u'Oman', 'name': u'Al Barwani, Abdullah', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/fatima-al-sabahi/', 'location': u'Oman', 'name': u'Al Sabahi, Fatima', 'job_title': u'Trainee Lawyer'}
+{'url': u'http://www.trowers.com/people/majid-al-toky/', 'location': u'Oman', 'name': u'Al Toky, Majid', 'job_title': u'Partner - Resident Managing Partner'}
+{'url': u'http://www.trowers.com/people/aisha-al-bualy/', 'location': u'Oman', 'name': u'Al-Bualy, Aisha', 'job_title': u'Trainee Lawyer'}
+{'url': u'http://www.trowers.com/people/halah-al-zamel/', 'location': u'London', 'name': u'Al-Zamel, Halah', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/richie-alder/', 'location': u'London', 'name': u'Alder, Richie', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/julien-allen/', 'location': u'London', 'name': u'Allen, Julien', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/buthaina-amin/', 'location': u'London', 'name': u'Amin, Buthaina', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/martin-amison/', 'location': u'London', 'name': u'Amison, Martin', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/barbara-anderson/', 'location': u'London', 'name': u'Anderson, Barbara', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/paul-andrews/', 'location': u'London', 'name': u'Andrews, Paul', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/daniel-archer/', 'location': u'London', 'name': u'Archer, Daniel', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/jessica-arczynski/', 'location': u'London', 'name': u'Arczynski, Jessica', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/charmandip-atwal/', 'location': u'Birmingham', 'name': u'Atwal, Charmandip', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/jamie-atwell/', 'location': u'London', 'name': u'Atwell, Jamie', 'job_title': u'Consultant'}
+{'url': u'http://www.trowers.com/people/alice-back/', 'location': u'Exeter', 'name': u'Back, Alice', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/jacqueline-backhaus/', 'location': u'London', 'name': u'Backhaus, Jacqueline', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/sara-bailey/', 'location': u'London', 'name': u'Bailey, Sara', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/jon-baker/', 'location': u'London', 'name': u'Baker, Jon', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/tom-balfour/', 'location': u'London', 'name': u'Balfour, Tom', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/victoria-ball/', 'location': u'Birmingham', 'name': u'Ball, Victoria', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/tola-balogun/', 'location': u'Manchester', 'name': u'Balogun, Tola', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/vijay-bange/', 'location': u'London', 'name': u'Bange, Vijay', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/andrew-barnard/', 'location': u'London', 'name': u'Barnard, Andrew', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/emma-barnfield/', 'location': u'London', 'name': u'Barnfield, Emma', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/carly-barrett/', 'location': u'London', 'name': u'Barrett, Carly', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/nicholas-barrows/', 'location': u'London', 'name': u'Barrows, Nicholas', 'job_title': u'Business development'}
+{'url': u'http://www.trowers.com/people/tom-barton/', 'location': u'London', 'name': u'Barton, Tom', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/paul-bartter/', 'location': u'London', 'name': u'Bartter, Paul', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/ned-beale/', 'location': u'London', 'name': u'Beale, Ned', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/robert-beiley/', 'location': u'London', 'name': u'Beiley, Robert', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/sarah-bennett-hughes/', 'location': u'Bahrain', 'name': u'Bennett-Hughes, Sarah', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/suzanne-benson/', 'location': u'Manchester', 'name': u'Benson, Suzanne', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/joseph-bentley/', 'location': u'Dubai', 'name': u'Bentley, Joseph', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/natasha-berbeneva/', 'location': u'London', 'name': u'Berbeneva, Natasha', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/amy-jo-berryman/', 'location': u'Manchester', 'name': u'Berryman, Amy-Jo', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/paul-best/', 'location': u'Manchester', 'name': u'Best, Paul', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/william-bethune/', 'location': u'London', 'name': u'Bethune, William', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/faizal-bhana/', 'location': u'Bahrain', 'name': u'Bhana, Faizal', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/obaid-bin-nasir/', 'location': u'London', 'name': u'Bin-Nasir, Obaid', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/rosie-may-blackwell/', 'location': u'London', 'name': u'Blackwell, Rosie-May', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/adrian-bode/', 'location': u'Manchester', 'name': u'Bode, Adrian', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/kate-bouchier/', 'location': u'Manchester', 'name': u'Bouchier, Kate', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/youssef-boulos/', 'location': u'London', 'name': u'Boulos, Youssef', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/sallie-bowtell/', 'location': u'Dubai', 'name': u'Bowtell, Sallie', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/paul-brock/', 'location': u'Manchester', 'name': u'Brock, Paul', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/yvette-bryan/', 'location': u'London', 'name': u'Bryan, Yvette', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/simon-bryning/', 'location': u'London', 'name': u'Bryning, Simon', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/emma-burrows/', 'location': u'London', 'name': u'Burrows, Emma', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/alex-burton/', 'location': u'London', 'name': u'Burton, Alex', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/debby-burton-shaw1/', 'location': u'Abu Dhabi', 'name': u'Burton-Shaw, Debby', 'job_title': u'Managing Associate'}
+{'url': u'http://www.trowers.com/people/cheryl-cairns/', 'location': u'Dubai', 'name': u'Cairns, Cheryl', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/robert-cale/', 'location': u'Manchester', 'name': u'Cale, Robert', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/stephanie-canham/', 'location': u'London', 'name': u'Canham, Stephanie', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/adrian-carter/', 'location': u'London', 'name': u'Carter, Adrian', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/rachel-carter/', 'location': u'Exeter', 'name': u'Carter, Rachel', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/giovanni-castronovo/', 'location': u'London', 'name': u'Castronovo, Giovanni', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/tanya-chadha/', 'location': u'Birmingham', 'name': u'Chadha, Tanya', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/rajinder-chahal/', 'location': u'Birmingham', 'name': u'Chahal, Rajinder', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/jo-chaudhri/', 'location': u'Dubai', 'name': u'Chaudhri, Jo', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/hilesh-chavda/', 'location': u'London', 'name': u'Chavda, Hilesh', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/darrell-chiheb/', 'location': u'London', 'name': u'Chiheb, Darrell', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/jennie-chilton/', 'location': u'London', 'name': u'Chilton, Jennie', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/tinashe-chipendo/', 'location': u'Manchester', 'name': u'Chipendo, Tinashe', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/alison-chivers/', 'location': u'London', 'name': u'Chivers, Alison', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/april-chivers/', 'location': u'Dubai', 'name': u'Chivers, April', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/jessica-church/', 'location': u'Exeter', 'name': u'Church, Jessica', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/anna-clark/', 'location': u'London', 'name': u'Clark, Anna', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/roger-clarke/', 'location': u'London', 'name': u'Clarke, Roger', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/anthony-clarke/', 'location': u'Exeter', 'name': u'Clarke, Anthony', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/victoria-clarke/', 'location': u'London', 'name': u'Clarke, Victoria', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/lydia-clatworthy/', 'location': u'Exeter', 'name': u'Clatworthy, Lydia', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/charlotte-clayson/', 'location': u'London', 'name': u'Clayson, Charlotte', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/william-clements/', 'location': u'London', 'name': u'Clements, William', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/sam-cobley/', 'location': u'London', 'name': u'Cobley, Sam', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/neil-cohen/', 'location': u'London', 'name': u'Cohen, Neil', 'job_title': u'Professional Support Lawyer'}
+{'url': u'http://www.trowers.com/people/rachel-collins/', 'location': u'London', 'name': u'Collins, Rachel', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/melanie-comer/', 'location': u'Manchester', 'name': u'Comer, Melanie', 'job_title': u'Managing Associate'}
+{'url': u'http://www.trowers.com/people/helen-cookson/', 'location': u'Manchester', 'name': u'Cookson, Helen', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/gavin-coutts/', 'location': u'London', 'name': u'Coutts, Gavin', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/sam-coward/', 'location': u'Manchester', 'name': u'Coward, Sam', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/matthew-cox/', 'location': u'London', 'name': u'Cox, Matthew', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/christopher-critchley/', 'location': u'Manchester', 'name': u'Critchley, Christopher', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/victoria-cunliffe/', 'location': u'Manchester', 'name': u'Cunliffe, Victoria', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/jennifer-dalby/', 'location': u'Birmingham', 'name': u'Dalby, Jennifer', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/guy-danalis/', 'location': u'Abu Dhabi', 'name': u'Danalis, Guy', 'job_title': u'Partner - Resident Managing Partner'}
+{'url': u'http://www.trowers.com/people/yetunde-dania/', 'location': u'Birmingham', 'name': u'Dania, Yetunde', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/rachel-darnell/', 'location': u'Exeter', 'name': u'Darnell, Rachel', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/sarah-darvell/', 'location': u'London', 'name': u'Darvell, Sarah', 'job_title': u'Managing Associate'}
+{'url': u'http://www.trowers.com/people/kate-davies1/', 'location': u'Birmingham', 'name': u'Davies, Kate', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/ian-davis/', 'location': u'London', 'name': u'Davis, Ian', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/chloe-dawson/', 'location': u'Exeter', 'name': u'Dawson, Chloe', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/aoife-devlin/', 'location': u'London', 'name': u'Devlin, Aoife', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/david-dixon/', 'location': u'London', 'name': u'Dixon, David', 'job_title': u'Director'}
+{'url': u'http://www.trowers.com/people/ian-dobinson/', 'location': u'London', 'name': u'Dobinson, Ian', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/melanie-dodd/', 'location': u'Birmingham', 'name': u'Dodd, Melanie', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/lucy-dodd/', 'location': u'Manchester', 'name': u'Dodd, Lucy', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/laura-dodwell/', 'location': u'London', 'name': u'Dodwell, Laura', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/michael-donnellan/', 'location': u'London', 'name': u'Donnellan, Michael', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/ian-doolittle/', 'location': u'London', 'name': u'Doolittle, Ian', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/lucy-doran/', 'location': u'London', 'name': u'Doran, Lucy', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/scott-dorling/', 'location': u'London', 'name': u'Dorling, Scott', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/george-dowson/', 'location': u'Abu Dhabi', 'name': u'Dowson, George', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/eileen-duncan/', 'location': u'London', 'name': u'Duncan, Eileen', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/katie-dyer/', 'location': u'London', 'name': u'Dyer, Katie', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/nicholas-edmondes/', 'location': u'Malaysia', 'name': u'Edmondes, Nicholas', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/johannes-eisser/', 'location': u'Abu Dhabi', 'name': u'Eisser, Johannes', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/jordan-ellis/', 'location': u'London', 'name': u'Ellis, Jordan', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/richard-elson/', 'location': u'', 'name': u'Elson, Richard', 'job_title': u'Director'}
+{'url': u'http://www.trowers.com/people/susan-evans/', 'location': u'London', 'name': u'Evans, Susan', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/katherine-evans/', 'location': u'Bahrain', 'name': u'Evans, Katherine', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/jonathan-eyres/', 'location': u'Exeter', 'name': u'Eyres, Jonathan', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/claire-ezekwe/', 'location': u'London', 'name': u'Ezekwe, Claire', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/lauren-fawcett/', 'location': u'Exeter', 'name': u'Fawcett, Lauren', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/bayard-ficht/', 'location': u'London', 'name': u'Ficht, Bayard', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/athina-finding/', 'location': u'London', 'name': u'Finding, Athina', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/mairead-finlay/', 'location': u'Bahrain', 'name': u'Finlay, Mairead', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/imogen-fisher/', 'location': u'London', 'name': u'Fisher, Imogen', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/henry-fitch/', 'location': u'London', 'name': u'Fitch, Henry', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/sam-folley/', 'location': u'London', 'name': u'Folley, Sam', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/john-forde/', 'location': u'London', 'name': u'Forde, John', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/becky-fox/', 'location': u'Manchester', 'name': u'Fox, Becky', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/alex-frankland/', 'location': u'Exeter', 'name': u'Frankland, Alex', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/nicola-freeman/', 'location': u'London', 'name': u'Freeman, Nicola', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/jack-frier/', 'location': u'Exeter', 'name': u'Frier, Jack', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/benjamin-futerman/', 'location': u'London', 'name': u'Futerman, Benjamin', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/mike-gaskell/', 'location': u'Manchester', 'name': u'Gaskell, Mike', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/stephanie-geesink/', 'location': u'London', 'name': u'Geesink, Stephanie', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/melissa-gheerawo/', 'location': u'London', 'name': u'Gheerawo, Melissa', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/rebecca-gibson/', 'location': u'London', 'name': u'Gibson, Rebecca', 'job_title': u'Managing Associate'}
+{'url': u'http://www.trowers.com/people/neill-gibson/', 'location': u'London', 'name': u'Gibson, Neill', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/jamie-gibson/', 'location': u'Oman', 'name': u'Gibson, Jamie', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/moad-giebaly/', 'location': u'London', 'name': u'Giebaly, Moad', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/amardeep-gill/', 'location': u'Birmingham', 'name': u'Gill, Amardeep', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/cara-gillingham/', 'location': u'London', 'name': u'Gillingham, Cara', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/claudia-gizejewski/', 'location': u'London', 'name': u'Gizejewski, Claudia', 'job_title': u'Professional Support Lawyer'}
+{'url': u'http://www.trowers.com/people/ann-glaves-smith/', 'location': u'London', 'name': u'Glaves-Smith, Ann', 'job_title': u'Consultant'}
+{'url': u'http://www.trowers.com/people/judith-glover/', 'location': u'Exeter', 'name': u'Glover, Judith', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/simon-goldring/', 'location': u'London', 'name': u'Goldring, Simon', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/sarah-gooden/', 'location': u'London', 'name': u'Gooden, Sarah', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/yasha-gosrani/', 'location': u'London', 'name': u'Gosrani, Yasha', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/ian-graham/', 'location': u'London', 'name': u'Graham, Ian', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/peter-greatrex/', 'location': u'Bahrain', 'name': u'Greatrex, Peter', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/nick-green/', 'location': u'Bahrain', 'name': u'Green, Nick', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/avita-grewal/', 'location': u'London', 'name': u'Grewal, Avita', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/jonathan-grosvenor/', 'location': u'London', 'name': u'Grosvenor, Jonathan', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/jennie-gubbins/', 'location': u'London', 'name': u'Gubbins, Jennie', 'job_title': u'Senior Partner'}
+{'url': u'http://www.trowers.com/people/soeren-gurock/', 'location': u'London', 'name': u'Gurock, S\xf8ren', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/ayda-habboush/', 'location': u'London', 'name': u'Habboush, Ayda', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/sam-haines-nutt/', 'location': u'London', 'name': u'Haines-Nutt, Sam', 'job_title': u'Bids Manager'}
+{'url': u'http://www.trowers.com/people/samantha-hall/', 'location': u'London', 'name': u'Hall, Samantha', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/natasha-halliday/', 'location': u'London', 'name': u'Halliday, Natasha', 'job_title': u'Consultant'}
+{'url': u'http://www.trowers.com/people/kirstin-halliwell/', 'location': u'London', 'name': u'Halliwell, Kirstin', 'job_title': u'Professional Support Lawyer'}
+{'url': u'http://www.trowers.com/people/miranda-hamilton-wood/', 'location': u'Exeter', 'name': u'Hamilton-Wood, Miranda', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/catherine-hand/', 'location': u'London', 'name': u'Hand, Catherine', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/robert-handley/', 'location': u'Birmingham', 'name': u'Handley, Robert', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/sarah-jane-harbour1/', 'location': u'London', 'name': u'Harbour, Sarah-Jane', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/shaun-hardiman1/', 'location': u'Abu Dhabi', 'name': u'Hardiman, Shaun', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/elizabeth-hargreaves/', 'location': u'Birmingham', 'name': u'Hargreaves, Elizabeth', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/ben-harle/', 'location': u'London', 'name': u'Harle, Ben', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/nick-harrisingh/', 'location': u'London', 'name': u'Harrisingh, Nick', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/peter-hawkes/', 'location': u'Abu Dhabi', 'name': u'Hawkes, Peter', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/james-hawkins/', 'location': u'London', 'name': u'Hawkins, James', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/joe-hawthorne/', 'location': u'Manchester', 'name': u'Hawthorne, Joe', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/caroline-hayward/', 'location': u'London', 'name': u'Hayward, Caroline', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/tom-heard/', 'location': u'Oman', 'name': u'Heard, Tom', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/edward-henley/', 'location': u'Exeter', 'name': u'Henley, Edward', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/rachael-hershman/', 'location': u'Birmingham', 'name': u'Hershman, Rachael', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/jodie-heslop/', 'location': u'London', 'name': u'Heslop, Jodie', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/tamara-heslop/', 'location': u'London', 'name': u'Heslop, Tamara', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/michael-higginson/', 'location': u'London', 'name': u'Higginson, Michael', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/richard-hildebrand/', 'location': u'London', 'name': u'Hildebrand, Richard', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/gill-hill/', 'location': u'Manchester', 'name': u'Hill, Gill', 'job_title': u'Legal Executive'}
+{'url': u'http://www.trowers.com/people/tim-hillier1/', 'location': u'London', 'name': u'Hillier, Tim', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/jason-hobday/', 'location': u'Exeter', 'name': u'Hobday, Jason', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/matthew-holbrook/', 'location': u'Manchester', 'name': u'Holbrook, Matthew', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/christine-holland/', 'location': u'London', 'name': u'Holland, Christine', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/kyle-holling/', 'location': u'London', 'name': u'Holling, Kyle', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/tom-holroyd/', 'location': u'Manchester', 'name': u'Holroyd, Tom', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/dawn-marie-hornby/', 'location': u'Manchester', 'name': u'Hornby, Dawn-Marie', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/robert-horne/', 'location': u'London', 'name': u'Horne, Robert', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/brian-howard/', 'location': u'Bahrain', 'name': u'Howard, Brian', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/deborah-howard/', 'location': u'Bahrain', 'name': u'Howard, Deborah', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/andrew-howson/', 'location': u'Exeter', 'name': u'Howson, Andrew', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/james-huckstep/', 'location': u'London', 'name': u'Huckstep, James', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/nick-huddert/', 'location': u'Exeter', 'name': u'Huddert, Nick', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/david-hughes/', 'location': u'London', 'name': u'Hughes, David', 'job_title': u'Managing Associate'}
+{'url': u'http://www.trowers.com/people/jeremy-hunt/', 'location': u'London, Birmingham', 'name': u'Hunt, Jeremy', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/helen-hunter/', 'location': u'London', 'name': u'Hunter, Helen', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/james-ignotus/', 'location': u'London', 'name': u'Ignotus, James', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/nicola-ihnatowicz/', 'location': u'London', 'name': u'Ihnatowicz, Nicola', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/jeremy-ingham/', 'location': u'Oman', 'name': u'Ingham, Jeremy', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/catherine-innes/', 'location': u'London', 'name': u'Innes, Catherine', 'job_title': u'Director'}
+{'url': u'http://www.trowers.com/people/riza-ismail/', 'location': u'Oman', 'name': u'Ismail, Riza', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/maria-ivanova/', 'location': u'Dubai', 'name': u'Ivanova, Maria', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/nicola-jackson/', 'location': u'Dubai', 'name': u'Jackson, Nicola', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/hannah-jackson/', 'location': u'Exeter', 'name': u'Jackson, Hannah', 'job_title': u'Managing Associate'}
+{'url': u'http://www.trowers.com/people/lucy-james/', 'location': u'London', 'name': u'James, Lucy', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/eleanor-james/', 'location': u'Manchester', 'name': u'James, Eleanor', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/reem-jano/', 'location': u'Abu Dhabi', 'name': u'Jano, Reem', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/yassar-jassani/', 'location': u'London', 'name': u'Jassani, Yassar', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/bill-jefferies/', 'location': u'Dubai', 'name': u'Jefferies, Bill', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/brooke-johnston/', 'location': u'London', 'name': u'Johnston, Brooke', 'job_title': u'Public relations'}
+{'url': u'http://www.trowers.com/people/jeremy-joiner/', 'location': u'London', 'name': u'Joiner, Jeremy', 'job_title': u'Consultant'}
+{'url': u'http://www.trowers.com/people/nicola-jones/', 'location': u'Manchester', 'name': u'Jones, Nicola', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/adrian-jones/', 'location': u'London', 'name': u'Jones, Adrian', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/moira-jones/', 'location': u'London', 'name': u'Jones, Moira', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/julian-keith/', 'location': u'London', 'name': u'Keith, Julian', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/brian-kelleher/', 'location': u'Bahrain', 'name': u'Kelleher, Brian', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/rachel-kerr/', 'location': u'London', 'name': u'Kerr, Rachel', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/shivani-kesaria/', 'location': u'London', 'name': u'Kesaria, Shivani', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/sarah-keywood/', 'location': u'London', 'name': u'Keywood, Sarah', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/saerim-kim/', 'location': u'London', 'name': u'Kim, Saerim', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/roger-king/', 'location': u'London', 'name': u'King, Roger', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/harriet-kitchenham/', 'location': u'Birmingham', 'name': u'Kitchenham, Harriet', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/peter-kitson/', 'location': u'London', 'name': u'Kitson, Peter', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/rubianka-kuruvilla/', 'location': u'Dubai', 'name': u'Kuruvilla, Rubianka', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/jane-lancaster/', 'location': u'Manchester', 'name': u'Lancaster, Jane', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/james-lancaster/', 'location': u'London', 'name': u'Lancaster, James', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/rebecca-lawrence/', 'location': u'London', 'name': u'Lawrence, Rebecca', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/tom-leach/', 'location': u'London', 'name': u'Leach, Tom', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/adrian-leavey/', 'location': u'London', 'name': u'Leavey, Adrian', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/nicholas-levy/', 'location': u'London', 'name': u'Levy, Nicholas', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/malcolm-lewis/', 'location': u'Dubai', 'name': u'Lewis, Malcolm', 'job_title': u'Human Resources'}
+{'url': u'http://www.trowers.com/people/katharine-lewis/', 'location': u'London', 'name': u'Lewis, Katharine', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/dwynwen-lewis/', 'location': u'London', 'name': u'Lewis, Dwynwen', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/beth-lindsey/', 'location': u'London', 'name': u'Lindsey, Beth', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/sarah-linley/', 'location': u'Manchester', 'name': u'Linley, Sarah', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/jessica-lockley/', 'location': u'London', 'name': u'Lockley, Jessica', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/jo-lord/', 'location': u'Manchester', 'name': u'Lord, Jo', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/sarah-maclachlan/', 'location': u'London', 'name': u'Maclachlan, Sarah', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/shah-malik/', 'location': u'', 'name': u'Malik, Shah', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/yvonne-mao/', 'location': u'London', 'name': u'Mao, Yvonne', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/assad-maqbool/', 'location': u'London', 'name': u'Maqbool, Assad', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/paul-marco/', 'location': u'London', 'name': u'Marco, Paul', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/stephen-marks/', 'location': u'London', 'name': u'Marks, Stephen', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/kate-marshall/', 'location': u'Oman', 'name': u'Marshall, Kate', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/john-maton/', 'location': u'London', 'name': u'Maton, John', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/fathia-mbarak/', 'location': u'Bahrain', 'name': u'Mbarak, Fathia', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/james-mccormack/', 'location': u'London', 'name': u'McCormack, James', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/paul-mcdermott/', 'location': u'London', 'name': u'McDermott, Paul', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/matthew-mcdonald/', 'location': u'Birmingham', 'name': u'McDonald, Matthew', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/martin-mcfall/', 'location': u'London', 'name': u'McFall, Martin', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/rebecca-mcguirk/', 'location': u'Birmingham', 'name': u'McGuirk, Rebecca', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/sara-mckay/', 'location': u'Manchester', 'name': u'McKay, Sara', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/beth-mcmanus/', 'location': u'London', 'name': u'McManus, Beth', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/niall-mcmorrow/', 'location': u'Bahrain', 'name': u'McMorrow, Niall', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/khilen-mehta/', 'location': u'Manchester', 'name': u'Mehta, Khilen', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/james-menzies/', 'location': u'Exeter', 'name': u'Menzies, James', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/anna-metham/', 'location': u'Manchester', 'name': u'Metham, Anna', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/natasha-mirzabaigian/', 'location': u'London', 'name': u'Mirzabaigian, Natasha', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/srijan-mishra/', 'location': u'London', 'name': u'Mishra, Srijan', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/abdul-haq-mohammed/', 'location': u'Bahrain', 'name': u'Mohammed, Abdul-Haq', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/theresa-mohammed/', 'location': u'London', 'name': u'Mohammed, Theresa', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/stephen-moore/', 'location': u'Exeter', 'name': u'Moore, Stephen', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/anna-moore/', 'location': u'London', 'name': u'Moore, Anna', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/digby-morgan/', 'location': u'Birmingham', 'name': u'Morgan, Digby', 'job_title': u'Managing Associate'}
+{'url': u'http://www.trowers.com/people/patrick-morris/', 'location': u'London', 'name': u'Morris, Patrick', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/charles-morrish/', 'location': u'London', 'name': u'Morrish, Charles', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/david-mosey/', 'location': u'London', 'name': u'Mosey, Professor David', 'job_title': u'Consultant'}
+{'url': u'http://www.trowers.com/people/naomi-moss/', 'location': u'London', 'name': u'Moss, Naomi', 'job_title': u'Director'}
+{'url': u'http://www.trowers.com/people/elias-moubarak/', 'location': u'Dubai', 'name': u'Moubarak, Elias', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/dale-moulden/', 'location': u'London', 'name': u'Moulden, Dale', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/sarah-mubashir/', 'location': u'London', 'name': u'Mubashir, Sarah', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/michael-mullarkey/', 'location': u'London', 'name': u'Mullarkey, Michael', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/ben-neary/', 'location': u'London', 'name': u'Neary, Ben', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/joe-neilson/', 'location': u'Dubai', 'name': u'Neilson, Joe', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/steve-nichol/', 'location': u'London', 'name': u'Nichol, Steve', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/penelope-nixon/', 'location': u'Manchester', 'name': u'Nixon, Penelope', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/caroline-nugent/', 'location': u'London', 'name': u'Nugent, Caroline', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/tim-nye/', 'location': u'London', 'name': u'Nye, Tim', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/connie-odonnell/', 'location': u'Exeter', 'name': u"O'Donnell, Connie", 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/edward-ohanrahan/', 'location': u'London', 'name': u"O'Hanrahan, Edward", 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/dominic-oneil/', 'location': u'Bahrain', 'name': u"O'Neil, Dominic", 'job_title': u'International Managing Partner'}
+{'url': u'http://www.trowers.com/people/michael-oreilly/', 'location': u'Dubai', 'name': u"O'Reilly, Michael", 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/simon-owen/', 'location': u'London', 'name': u'Owen, Simon', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/daniel-page/', 'location': u'Dubai', 'name': u'Page, Daniel', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/rachael-pallier/', 'location': u'Manchester', 'name': u'Pallier, Rachael', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/gillian-palmer/', 'location': u'London', 'name': u'Palmer, Gillian', 'job_title': u'Professional Support Lawyer'}
+{'url': u'http://www.trowers.com/people/tessa-pang/', 'location': u'Manchester', 'name': u'Pang, Tessa', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/kerry-parry/', 'location': u'Manchester', 'name': u'Parry, Kerry', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/michael-pattinson/', 'location': u'London', 'name': u'Pattinson, Michael', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/christopher-paul/', 'location': u'London', 'name': u'Paul, Christopher', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/dorota-pawlowski/', 'location': u'Birmingham', 'name': u'Pawlowski, Dorota', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/james-pearson/', 'location': u'Manchester', 'name': u'Pearson, James', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/christopher-pedder/', 'location': u'London', 'name': u'Pedder, Christopher', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/sarah-jane-perera/', 'location': u'London', 'name': u'Perera, Sarah-Jane', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/philip-peters/', 'location': u'London', 'name': u'Peters, Philip', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/jennifer-mcdonald/', 'location': u'London', 'name': u'Phillips, Jennifer', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/ralph-picken/', 'location': u'London', 'name': u'Picken, Ralph', 'job_title': u'Consultant'}
+{'url': u'http://www.trowers.com/people/lizzie-pillinger/', 'location': u'London', 'name': u'Pillinger, Lizzie', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/tony-poole/', 'location': u'London', 'name': u'Poole, Tony', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/reece-poutawera/', 'location': u'Dubai', 'name': u'Poutawera, Reece', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/diane-preston/', 'location': u'London', 'name': u'Preston, Diane', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/penny-pruksakit/', 'location': u'London', 'name': u'Pruksakit, Penny', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/emily-putz/', 'location': u'London', 'name': u'Putz, Emily', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/waheed-raja/', 'location': u'London', 'name': u'Raja, Waheed', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/tharusha-rajapakse/', 'location': u'London', 'name': u'Rajapakse, Tharusha', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/helen-randall/', 'location': u'London', 'name': u'Randall, Helen', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/kathy-rawson/', 'location': u'Manchester', 'name': u'Rawson, Kathy', 'job_title': u'Legal Executive'}
+{'url': u'http://www.trowers.com/people/philippa-rayson/', 'location': u'London', 'name': u'Rayson, Philippa', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/zulqarnain-razak/', 'location': u'London', 'name': u'Razak, Alex', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/rebecca-rees/', 'location': u'London', 'name': u'Rees, Rebecca', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/imogen-reseigh/', 'location': u'London', 'name': u'Reseigh, Imogen', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/tom-reynolds/', 'location': u'Bahrain', 'name': u'Reynolds, Tom', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/michael-rhode/', 'location': u'London', 'name': u'Rhode, Michael', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/douglas-rhodes/', 'location': u'London', 'name': u'Rhodes, Douglas', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/denielle-rickman/', 'location': u'London', 'name': u'Rickman, Denielle', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/paul-robinson/', 'location': u'London', 'name': u'Robinson, Paul', 'job_title': u'Director'}
+{'url': u'http://www.trowers.com/people/mark-robinson/', 'location': u'Birmingham', 'name': u'Robinson, Mark', 'job_title': u'Managing Associate'}
+{'url': u'http://www.trowers.com/people/naomi-roper/', 'location': u'London', 'name': u'Roper, Naomi', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/lydia-rose/', 'location': u'London', 'name': u'Rose, Lydia', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/nadya-rouben/', 'location': u'London', 'name': u'Rouben, Nadya', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/andrew-russell/', 'location': u'Exeter', 'name': u'Russell, Andrew', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/emma-salvatore/', 'location': u'London', 'name': u'Salvatore, Emma', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/eleni-samuel/', 'location': u'Manchester', 'name': u'Samuel, Eleni', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/dan-sargeant/', 'location': u'Oman', 'name': u'Sargeant, Dan', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/katie-saunders/', 'location': u'Manchester', 'name': u'Saunders, Katie', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/janet-scoones/', 'location': u'London', 'name': u'Scoones, Janet', 'job_title': u'Director'}
+{'url': u'http://www.trowers.com/people/anna-scott/', 'location': u'London', 'name': u'Scott, Anna', 'job_title': u'Professional Support Lawyer'}
+{'url': u'http://www.trowers.com/people/emma-sear/', 'location': u'London', 'name': u'Sear, Emma', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/louis-sebastian/', 'location': u'Birmingham', 'name': u'Sebastian, Louis', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/tonia-secker/', 'location': u'London', 'name': u'Secker, Tonia', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/jennifer-shackley/', 'location': u'Manchester', 'name': u'Shackley , Jennifer', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/aarti-shah/', 'location': u'London', 'name': u'Shah, Aarti', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/sabah-shah/', 'location': u'London', 'name': u'Shah, Sabah', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/assiya-shalabayeva/', 'location': u'London', 'name': u'Shalabayeva, Assiya', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/leigh-shapiro/', 'location': u'London', 'name': u'Shapiro, Leigh', 'job_title': u'Managing Associate'}
+{'url': u'http://www.trowers.com/people/amy-shaw/', 'location': u'London', 'name': u'Shaw, Amy', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/catherine-simpson/', 'location': u'Manchester', 'name': u'Simpson, Catherine', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/andrew-slucky/', 'location': u'London', 'name': u'Slucky, Andrew', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/catherine-small/', 'location': u'Dubai', 'name': u'Small, Catherine', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/clarissa-smith/', 'location': u'London', 'name': u'Smith, Clarissa', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/becky-smyth/', 'location': u'Exeter', 'name': u'Smyth, Becky', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/andrew-sneddon/', 'location': u'London', 'name': u'Sneddon, Andrew', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/nicola-solomou/', 'location': u'London', 'name': u'Solomou, Nicola', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/andrew-sorrell/', 'location': u'London', 'name': u'Sorrell, Andrew', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/fiona-soussa/', 'location': u'London', 'name': u'Soussa, Fiona', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/jenny-standfast/', 'location': u'Exeter', 'name': u'Standfast, Jenny', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/nia-stewart/', 'location': u'London', 'name': u'Stewart, Nia', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/alistair-stewart/', 'location': u'London', 'name': u'Stewart, Alistair', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/rory-stracey/', 'location': u'London', 'name': u'Stracey, Rory', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/anna-streeter/', 'location': u'London', 'name': u'Streeter, Anna', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/helen-stuart/', 'location': u'London', 'name': u'Stuart, Helen', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/amanda-stubbs/', 'location': u'Manchester', 'name': u'Stubbs, Amanda', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/joseph-suliman/', 'location': u'Abu Dhabi', 'name': u'Suliman, Joseph', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/stephen-sullivan/', 'location': u'Dubai', 'name': u'Sullivan, Stephen', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/michelle-summers/', 'location': u'Manchester', 'name': u'Summers, Michelle', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/michael-surry/', 'location': u'London', 'name': u'Surry, Michael', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/tom-synott/', 'location': u'London', 'name': u'Synott, Tom', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/tania-tandon/', 'location': u'London', 'name': u'Tandon, Tania', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/laurence-target/', 'location': u'London', 'name': u'Target, Laurence', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/alan-tate/', 'location': u'Exeter', 'name': u'Tate, Alan', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/gordon-taylor/', 'location': u'London', 'name': u'Taylor, Gordon', 'job_title': u'Director'}
+{'url': u'http://www.trowers.com/people/jessica-terris/', 'location': u'London', 'name': u'Terris, Jessica', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/natalie-thomas/', 'location': u'Exeter', 'name': u'Thomas, Natalie', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/rowan-thomas/', 'location': u'Manchester', 'name': u'Thomas, Rowan', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/camilla-thornberry/', 'location': u'Manchester', 'name': u'Thornberry, Camilla', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/victoria-early/', 'location': u'London', 'name': u'Thornton, Victoria', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/graham-threadingham/', 'location': u'Exeter', 'name': u'Threadingham, Graham', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/katie-todd/', 'location': u'London', 'name': u'Todd, Katie', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/louise-townsend/', 'location': u'Manchester', 'name': u'Townsend, Louise', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/ed-tyler/', 'location': u'London', 'name': u'Tyler, Ed', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/sangita-unadkat/', 'location': u'London', 'name': u'Unadkat, Sangita', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/simon-valner/', 'location': u'London', 'name': u'Valner, Simon', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/rachel-vaughan/', 'location': u'Manchester', 'name': u'Vaughan, Rachel', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/david-vayro/', 'location': u'Manchester', 'name': u'Vayro, David', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/andrew-vickery/', 'location': u'Birmingham', 'name': u'Vickery, Andrew', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/hannah-wailoo/', 'location': u'London', 'name': u'Wailoo, Hannah', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/andy-waite/', 'location': u'Manchester', 'name': u'Waite, Andy', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/sheridan-wall/', 'location': u'Manchester', 'name': u'Wall, Sheridan', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/neil-waller/', 'location': u'Manchester', 'name': u'Waller, Neil', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/robyn-waller/', 'location': u'Dubai', 'name': u'Waller, Robyn', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/lucy-walsh/', 'location': u'Manchester', 'name': u'Walsh, Lucy', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/peter-ward/', 'location': u'London', 'name': u'Ward, Peter', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/rebecca-wardle/', 'location': u'London', 'name': u'Wardle, Rebecca', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/rebecca-b-wardle/', 'location': u'London', 'name': u'Wardle, Rebecca B', 'job_title': u'Solicitor'}
+{'url': u'http://www.trowers.com/people/sharron-webster/', 'location': u'London', 'name': u'Webster, Sharron', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/laura-godwin/', 'location': u'London', 'name': u'Welchew, Laura', 'job_title': u'Associate'}
+{'url': u'http://www.trowers.com/people/kelvin-wells/', 'location': u'London', 'name': u'Wells, Kelvin', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/nick-white/', 'location': u'Malaysia', 'name': u'White, Nick', 'job_title': u'Partner - Regional Manager'}
+{'url': u'http://www.trowers.com/people/charlotte-white/', 'location': u'London', 'name': u'White, Charlotte', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/gail-white/', 'location': u'Exeter', 'name': u'White, Gail', 'job_title': u'Senior Associate'}
+{'url': u'http://www.trowers.com/people/tom-wigley/', 'location': u'London', 'name': u'Wigley, Tom', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/guy-willetts/', 'location': u'Manchester, Birmingham', 'name': u'Willetts, Guy', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/andrew-williams/', 'location': u'London', 'name': u'Williams, Andrew', 'job_title': u'Professional Support Lawyer'}
+{'url': u'http://www.trowers.com/people/maria-willis/', 'location': u'Exeter', 'name': u'Willis, Maria', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/stuart-wilson/', 'location': u'London', 'name': u'Wilson, Stuart', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/janet-winrow/', 'location': u'Manchester', 'name': u'Winrow, Janet', 'job_title': u'Partner'}
+{'url': u'http://www.trowers.com/people/maurice-wong/', 'location': u'London', 'name': u'Wong, Maurice', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/samuel-wood/', 'location': u'London', 'name': u'Wood, Samuel', 'job_title': u'Paralegal'}
+{'url': u'http://www.trowers.com/people/anthony-yates/', 'location': u'London', 'name': u'Yates, Anthony', 'job_title': u'Partner - Head of Section'}
+{'url': u'http://www.trowers.com/people/nez-zein/', 'location': u'London', 'name': u'Zein, Nez', 'job_title': u'Trainee Solicitor'}
+{'url': u'http://www.trowers.com/people/david-zong/', 'location': u'London', 'name': u'Zong, David', 'job_title': u'Associate'}
+scraping *5616
+{'url': 'http://www.weightmans.com/our-people/s/sam-airey/', 'location': '', 'name': 'Airey, Sam', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/phil-allen/', 'location': '', 'name': 'Allen, Phil', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/carole-atkinson/', 'location': '', 'name': 'Atkinson, Carole', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/chris-ball/', 'location': '', 'name': 'Ball, Chris', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/deborah-bannister/', 'location': '', 'name': 'Bannister, Deborah', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/k/kiran-bhogal/', 'location': '', 'name': 'Bhogal, Kiran', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/michael-black/', 'location': '', 'name': 'Black, Michael', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/craig-blakemore/', 'location': '', 'name': 'Blakemore, Craig', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/clive-bleasdale/', 'location': '', 'name': 'Bleasdale, Clive', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/rebecca-blythe/', 'location': '', 'name': 'Blythe, Rebecca', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/malcolm-boardman/', 'location': '', 'name': 'Boardman, Malcolm', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/w/wesley-bower/', 'location': '', 'name': 'Bower, Wesley', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/k/karyn-branningan/', 'location': '', 'name': 'Branningan, Karyn', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mark-brenlund/', 'location': '', 'name': 'Brenlund, Mark', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/peter-brewer/', 'location': '', 'name': 'Brewer, Peter', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jim-bryant/', 'location': '', 'name': 'Bryant, Jim', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/b/beth-buchanan/', 'location': '', 'name': 'Buchanan, Beth', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mark-burch/', 'location': '', 'name': 'Burch, Mark', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/julie-burgess/', 'location': '', 'name': 'Burgess, Julie', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mike-burns/', 'location': '', 'name': 'Burns, Mike', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/seonaid-busby/', 'location': '', 'name': 'Busby, Seonaid', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jim-byard/', 'location': '', 'name': 'Byard, Jim', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tony-cannon/', 'location': '', 'name': 'Cannon, Tony', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/v/victoria-cargill/', 'location': '', 'name': 'Cargill, Victoria', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tom-challis/', 'location': '', 'name': 'Challis, Tom', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/e/elaine-chapman/', 'location': '', 'name': 'Chapman, Elaine', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/simon-charlton/', 'location': '', 'name': 'Charlton, Simon', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/ray-clarke/', 'location': '', 'name': 'Clarke, Ray', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/andrew-clarke/', 'location': '', 'name': 'Clarke, Andrew', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/john-cleaveley/', 'location': '', 'name': 'Cleaveley, John', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/v/victoria-coleman/', 'location': '', 'name': 'Coleman, Victoria', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/e/emma-collins/', 'location': '', 'name': 'Collins, Emma', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/simon-colvin/', 'location': '', 'name': 'Colvin, Simon', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/andrew-cooper/', 'location': '', 'name': 'Cooper, Andrew', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/richard-corran/', 'location': '', 'name': 'Corran, Richard', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/dave-cottam/', 'location': '', 'name': 'Cottam, Dave', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/andrew-cox/', 'location': '', 'name': 'Cox, Andrew', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jane-cox/', 'location': '', 'name': 'Cox, Jane', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/g/graeme-creer/', 'location': '', 'name': 'Creer, Graeme', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/robert-crossingham/', 'location': '', 'name': 'Crossingham, Robert', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sean-crotty/', 'location': '', 'name': 'Crotty, Sean', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/dan-cutts/', 'location': '', 'name': 'Cutts, Dan', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/f/fiona-davidson/', 'location': '', 'name': 'Davidson, Fiona', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/g/graham-dean/', 'location': '', 'name': 'Dean, Graham', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/paul-debney/', 'location': '', 'name': 'Debney, Paul', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tania-derrett-smith/', 'location': '', 'name': 'Derrett-Smith, Tania', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/terry-donaghy/', 'location': '', 'name': 'Donaghy, Terry', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/stephen-dudley/', 'location': '', 'name': 'Dudley, Stephen', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tina-dunn/', 'location': '', 'name': 'Dunn, Tina', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mark-dunn/', 'location': '', 'name': 'Dunn, Mark', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/f/fiona-east/', 'location': '', 'name': 'East, Fiona', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/n/nathan-east/', 'location': '', 'name': 'East, Nathan', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/martin-edwards/', 'location': '', 'name': 'Edwards, Martin', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sarah-ellington/', 'location': '', 'name': 'Ellington, Sarah', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/adam-entwistle/', 'location': '', 'name': 'Entwistle, Adam', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sian-evans/', 'location': '', 'name': 'Evans, Sian', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/david-fagan/', 'location': '', 'name': 'Fagan, David', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/e/edwina-farrell/', 'location': '', 'name': 'Farrell, Edwina', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jo-farrington/', 'location': '', 'name': 'Farrington, Jo', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/b/bryan-finlayson/', 'location': '', 'name': 'Finlayson, Bryan', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/peter-forshaw/', 'location': '', 'name': 'Forshaw, Peter', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/martin-forshaw/', 'location': '', 'name': 'Forshaw, Martin', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/q/quentin-fox/', 'location': '', 'name': 'Fox, Quentin', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mickaela-fox/', 'location': '', 'name': 'Fox, Mickaela', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/michelle-garlick/', 'location': '', 'name': 'Garlick, Michelle', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/patrick-gaul/', 'location': '', 'name': 'Gaul, Patrick', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/simon-goacher/', 'location': '', 'name': 'Goacher, Simon', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/l/lee-gordon/', 'location': '', 'name': 'Gordon, Lee', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/douglas-gourlay/', 'location': '', 'name': 'Gourlay, Douglas', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mike-grant/', 'location': '', 'name': 'Grant, Mike', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/chris-green/', 'location': '', 'name': 'Green, Chris', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/michael-green/', 'location': '', 'name': 'Green, Michael', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jon-gregson/', 'location': '', 'name': 'Gregson, Jon', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/g/gareth-griffiths/', 'location': '', 'name': 'Griffiths, Gareth', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/andy-griffiths/', 'location': '', 'name': 'Griffiths, Andy', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sarah-hamilton/', 'location': '', 'name': 'Hamilton, Sarah', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jennifer-haren/', 'location': '', 'name': 'Haren, Jennifer', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/dei-harries/', 'location': '', 'name': 'Harries, Dei', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/robert-harris/', 'location': '', 'name': 'Harris, Robert', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/l/lucy-hart/', 'location': '', 'name': 'Hart, Lucy', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mark-hatfield/', 'location': '', 'name': 'Hatfield, Mark', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/philip-heath/', 'location': '', 'name': 'Heath, Philip', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tom-henry/', 'location': '', 'name': 'Henry, Tom', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/b/bob-hetherington/', 'location': '', 'name': 'Hetherington, Bob', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mandy-higgins/', 'location': '', 'name': 'Higgins, Mandy', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/morris-hill/', 'location': '', 'name': 'Hill, Morris', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jonathan-hodgkinson/', 'location': '', 'name': 'Hodgkinson, Jonathan', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/martina-hogg/', 'location': '', 'name': 'Hogg, Martina', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/claire-hollins/', 'location': '', 'name': 'Hollins, Claire', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/james-holman/', 'location': '', 'name': 'Holman, James', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/david-holt/', 'location': '', 'name': 'Holt, David', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/paul-horton/', 'location': '', 'name': 'Horton, Paul', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/peter-houghton/', 'location': '', 'name': 'Houghton, Peter', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sarah-jane-howitt/', 'location': '', 'name': 'Howitt, Sarah-Jane', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/y/yvonne-hudders/', 'location': '', 'name': 'Hudders, Yvonne', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/roland-hutchins/', 'location': '', 'name': 'Hutchins, Roland', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/john-hyde/', 'location': '', 'name': 'Hyde, John', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/david-ingleson/', 'location': '', 'name': 'Ingleson, David', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/melanie-isherwood/', 'location': '', 'name': 'Isherwood, Melanie', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/k/karl-jackson/', 'location': '', 'name': 'Jackson, Karl', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/l/louise-jackson/', 'location': '', 'name': 'Jackson, Louise', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/phil-james/', 'location': '', 'name': 'James, Phil', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/shahida-jogi/', 'location': '', 'name': 'Jogi, Shahida', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/david-johnson/', 'location': '', 'name': 'Johnson, David', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/richard-jolly/', 'location': '', 'name': 'Jolly, Richard', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/charlie-jones/', 'location': '', 'name': 'Jones, Charlie', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/g/gary-jones/', 'location': '', 'name': 'Jones, Gary', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/k/kieran-jones/', 'location': '', 'name': 'Jones, Kieran', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sandra-jones/', 'location': '', 'name': 'Jones, Sandra', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/robert-jones/', 'location': '', 'name': 'Jones, Robert', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/e/euros-jones/', 'location': '', 'name': 'Jones, Euros', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/stuart-jones/', 'location': '', 'name': 'Jones, Stuart', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/g/graeme-jump/', 'location': '', 'name': 'Jump, Graeme', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sharon-kamil/', 'location': '', 'name': 'Kamil, Sharon', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/doug-keir/', 'location': '', 'name': 'Keir, Doug', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/stuart-kempson/', 'location': '', 'name': 'Kempson, Stuart', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/crispin-kenyon/', 'location': '', 'name': 'Kenyon, Crispin', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/e/eleanor-kilner/', 'location': '', 'name': 'Kilner, Eleanor', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/v/vincent-king/', 'location': '', 'name': 'King, Vincent', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/rachel-kneale/', 'location': '', 'name': 'Kneale, Rachel', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/james-knowles/', 'location': '', 'name': 'Knowles, James', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mark-landon/', 'location': '', 'name': 'Landon, Mark', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tim-lang/', 'location': '', 'name': 'Lang, Tim', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jonathan-lanigan/', 'location': '', 'name': 'Lanigan, Jonathan', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/adrian-le-monnier/', 'location': '', 'name': 'Le Monnier, Adrian', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mark-leach/', 'location': '', 'name': 'Leach, Mark', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/john-lees/', 'location': '', 'name': 'Lees, John', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/richard-leslie/', 'location': '', 'name': 'Leslie, Richard', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/e/ed-lewis/', 'location': '', 'name': 'Lewis, Ed', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/david-lewis/', 'location': '', 'name': 'Lewis, David', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/rachel-lim/', 'location': '', 'name': 'Lim, Rachel', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/matthew-line/', 'location': '', 'name': 'Line, Matthew', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sarah-littlemore/', 'location': '', 'name': 'Littlemore, Sarah', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/i/ivor-long/', 'location': '', 'name': 'Long, Ivor', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/stuart-macfarlane/', 'location': '', 'name': 'Macfarlane, Stuart', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/f/francis-mackie/', 'location': '', 'name': 'Mackie, Francis', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/roddy-macleod/', 'location': '', 'name': 'Macleod, Roddy', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/v/varun-maharaj/', 'location': '', 'name': 'Maharaj, Varun', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/clare-malpus/', 'location': '', 'name': 'Malpus, Clare', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/alex-marler/', 'location': '', 'name': 'Marler, Alex', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/penelope-marshall/', 'location': '', 'name': 'Marshall, Penelope', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/adrian-marston/', 'location': '', 'name': 'Marston, Adrian', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/k/katrina-marzella/', 'location': '', 'name': 'Marzella, Katrina', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/paul-mcfarlane/', 'location': '', 'name': 'McFarlane, Paul', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/suzanne-milne/', 'location': '', 'name': 'Milne, Suzanne', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/john-mitchell/', 'location': '', 'name': 'Mitchell, John', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/b/belinda-moore/', 'location': '', 'name': 'Moore, Belinda', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/v/vicky-morris/', 'location': '', 'name': 'Morris, Vicky', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tim-mould/', 'location': '', 'name': 'Mould, Tim', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/l/ling-ong/', 'location': '', 'name': 'Ong, Ling', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/richard-osborn/', 'location': '', 'name': 'Osborn, Richard', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/f/fiona-osullivan/', 'location': '', 'name': "O'Sullivan, Fiona", 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/simon-page/', 'location': '', 'name': 'Page, Simon', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/steve-peacock/', 'location': '', 'name': 'Peacock, Steve', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/colin-peck/', 'location': '', 'name': 'Peck, Colin', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/n/nick-peel/', 'location': '', 'name': 'Peel, Nick', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/judith-peters/', 'location': '', 'name': 'Peters, Judith', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sophie-philippon-thomas/', 'location': '', 'name': 'Philippon-Thomas, Sophie', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/john-pinsent/', 'location': '', 'name': 'Pinsent, John', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jane-plant/', 'location': '', 'name': 'Plant, Jane', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mark-poulston/', 'location': '', 'name': 'Poulston, Mark', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jane-price/', 'location': '', 'name': 'Price, Jane', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/l/laurence-pritchard/', 'location': '', 'name': 'Pritchard, Laurence', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/w/will-quinn/', 'location': '', 'name': 'Quinn, Will', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/paul-raftery/', 'location': '', 'name': 'Raftery, Paul', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/b/bavita-rai/', 'location': '', 'name': 'Rai, Bavita', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jawaid-rehman/', 'location': '', 'name': 'Rehman, Jawaid', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/n/nick-richards/', 'location': '', 'name': 'Richards, Nick', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/john-riddell/', 'location': '', 'name': 'Riddell, John', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/stephen-robb/', 'location': '', 'name': 'Robb, Stephen', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/andrew-roberts/', 'location': '', 'name': 'Roberts, Andrew', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/h/haydn-rogan/', 'location': '', 'name': 'Rogan, Haydn', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/k/kurt-rowe/', 'location': '', 'name': 'Rowe, Kurt', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/michael-ryley/', 'location': '', 'name': 'Ryley, Michael', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/k/kenneth-salmon/', 'location': '', 'name': 'Salmon, Kenneth', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tim-salthouse/', 'location': '', 'name': 'Salthouse, Tim', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/n/neal-samarji/', 'location': '', 'name': 'Samarji, Neal', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/john-schorah/', 'location': '', 'name': 'Schorah, John', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/steven-scullion/', 'location': '', 'name': 'Scullion, Steven', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/clare-sellars/', 'location': '', 'name': 'Sellars, Clare', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jonathan-shaer/', 'location': '', 'name': 'Shaer, Jonathan', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/w/william-sharpe/', 'location': '', 'name': 'Sharpe, William', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/steven-silver/', 'location': '', 'name': 'Silver, Steven', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mike-simpson/', 'location': '', 'name': 'Simpson, Mike', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/l/louise-singh/', 'location': '', 'name': 'Singh, Louise', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/n/nicky-smith/', 'location': '', 'name': 'Smith, Nicky', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/joanne-smith/', 'location': '', 'name': 'Smith, Joanne', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tracy-smyth/', 'location': '', 'name': 'Smyth, Tracy', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/v/vanessa-splaine/', 'location': '', 'name': 'Splaine, Vanessa', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/paul-stephens/', 'location': '', 'name': 'Stephens, Paul', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/k/karen-stephenson/', 'location': '', 'name': 'Stephenson, Karen', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/pamela-stevenson/', 'location': '', 'name': 'Stevenson, Pamela', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/a/andrea-steventon/', 'location': '', 'name': 'Steventon, Andrea', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/deborah-sullivan/', 'location': '', 'name': 'Sullivan, Deborah', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/david-tabinor/', 'location': '', 'name': 'Tabinor, David', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/simon-taylor/', 'location': '', 'name': 'Taylor, Simon', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/charles-tomlinson/', 'location': '', 'name': 'Tomlinson, Charles', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/david-tuck/', 'location': '', 'name': 'Tuck, David', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/l/lottie-tyler/', 'location': '', 'name': 'Tyler, Lottie', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/i/ian-vicary/', 'location': '', 'name': 'Vicary, Ian', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/d/dominic-vincent/', 'location': '', 'name': 'Vincent, Dominic', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/martin-vincent/', 'location': '', 'name': 'Vincent, Martin', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/peter-wake/', 'location': '', 'name': 'Wake, Peter', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/e/emerson-wallwork/', 'location': '', 'name': 'Wallwork, Emerson', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/n/noel-walsh/', 'location': '', 'name': 'Walsh, Noel', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sarah-walton/', 'location': '', 'name': 'Walton, Sarah', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/jessica-waterlow/', 'location': '', 'name': 'Waterlow, Jessica', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/j/janice-weatherly/', 'location': '', 'name': 'Weatherly, Janice', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/e/ellie-webster/', 'location': '', 'name': 'Webster, Ellie', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/stephen-whittaker/', 'location': '', 'name': 'Whittaker, Stephen', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/stuart-whittle/', 'location': '', 'name': 'Whittle, Stuart', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/s/sheila-whitton/', 'location': '', 'name': 'Whitton, Sheila', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/c/charlie-williams/', 'location': '', 'name': 'Williams, Charlie', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/e/emlyn-williams/', 'location': '', 'name': 'Williams, Emlyn', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/r/rob-williams/', 'location': '', 'name': 'Williams, Rob', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/b/brian-williams/', 'location': '', 'name': 'Williams, Brian', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/matthew-williamson/', 'location': '', 'name': 'Williamson, Matthew', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/n/navdip-wilson/', 'location': '', 'name': 'Wilson, Navdip', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/p/peter-wood/', 'location': '', 'name': 'Wood, Peter', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/b/bernadette-worthington/', 'location': '', 'name': 'Worthington, Bernadette', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/m/mike-yardley/', 'location': '', 'name': 'Yardley, Mike', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/t/tony-yeaman/', 'location': '', 'name': 'Yeaman, Tony', 'job_title': ''}
+{'url': 'http://www.weightmans.com/our-people/i/ian-yule/', 'location': '', 'name': 'Yule, Ian', 'job_title': ''}
