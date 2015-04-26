@@ -12,6 +12,9 @@ import requests
 
 from bs4 import BeautifulSoup, Comment, Tag
 
+# XXX Use the selenium version of this plugin
+skip = True
+
 PLUGINFO = {
     'url': 'http://incelaw.com/en/ourpeople/search-results'
 }
@@ -34,7 +37,6 @@ def soupify(page):
 
 class InceLawScraper(object):
     def __init__(self):
-#        self.url = 'http://www.InceLaw.com/people'
         self.url = 'http://incelaw.com/en/ourpeople/search-results'
         self.headers = { 'User-agent': 
                          'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7' }
