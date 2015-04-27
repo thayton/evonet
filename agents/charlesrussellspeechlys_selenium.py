@@ -40,12 +40,12 @@ class CharlesRussellSpeechlysScraper(object):
                 # Wait until the loader goes away (display: none) to determine when
                 # the page has finished loading
                 #
-                print self.driver.find_element_by_id('lastPostsLoader').is_displayed()
+                #print self.driver.find_element_by_id('lastPostsLoader').is_displayed()
 
                 wait = WebDriverWait(self.driver, 10)
                 wait.until(lambda driver: driver.find_element_by_id('lastPostsLoader').is_displayed() == False)
 
-                print self.driver.find_element_by_id('lastPostsLoader').is_displayed()
+                #print self.driver.find_element_by_id('lastPostsLoader').is_displayed()
 
                 #
                 # We know there are no more results to be loaded when the total number 
