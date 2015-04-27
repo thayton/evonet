@@ -15,8 +15,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from bs4 import BeautifulSoup, Comment, Tag
 
-skip = True
-
 PLUGINFO = {
     'url': 'http://www.charlesrussellspeechlys.com/people/'
 }
