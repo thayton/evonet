@@ -14,6 +14,10 @@ import requests
 
 from bs4 import BeautifulSoup, Comment, Tag
 
+PLUGINFO = {
+    'url': 'http://www.charlesrussellspeechlys.com/people/'
+}
+
 class CharlesRussellSpeechlysScraper(object):
     def __init__(self):
         self.first_letter_url = 'http://www.charlesrussellspeechlys.com/api/GetPeopleByFirstLetter'
