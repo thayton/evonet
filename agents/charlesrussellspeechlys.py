@@ -14,6 +14,9 @@ import requests
 
 from bs4 import BeautifulSoup, Comment, Tag
 
+# Use selenium version now
+skip = True
+
 PLUGINFO = {
     'url': 'http://www.charlesrussellspeechlys.com/people/'
 }
