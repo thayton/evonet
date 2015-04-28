@@ -23,7 +23,7 @@ class ShoosmithsScraper(object):
         self.driver.get(PLUGINFO['url'])
 
         select = Select(self.driver.find_element_by_name('findourpeople_searchfields$lstPracticeGroups'))
-        option_indexes = range(1, len(select.options) + 1)
+        option_indexes = range(1, len(select.options))
 
         for index in option_indexes:
             select.select_by_index(index)
