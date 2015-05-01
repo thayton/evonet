@@ -16,8 +16,6 @@ PLUGINFO = {
     'url': 'https://www.slatergordon.com.au/our-people'
 }
 
-skip=True
-
 class SlaterGordonScraper(object):
     def __init__(self):
         self.driver = webdriver.PhantomJS()
