@@ -21,7 +21,7 @@ skip=True
 class SlaterGordonScraper(object):
     def __init__(self):
         self.driver = webdriver.PhantomJS()
-        self.driver.set_window_size(1400, 1400)
+        self.driver.set_window_size(1120, 550)
 
     def scrape(self):
         self.driver.get(PLUGINFO['url'])
