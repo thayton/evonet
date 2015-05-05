@@ -4,7 +4,7 @@ import os
 import sys
 import time
 import signal
-import random
+import argparse
 
 from datetime import datetime
 from plugin_loader import PluginLoader
@@ -22,7 +22,7 @@ class PluginProcess(Process):
         super(PluginProcess, self).__init__()
         
     def run(self):
-        print '%s ' % self.plugin, self._name + ' (%d)' % os.getpid()
+        print '%s ' % self.plugin.__name__, self._name + ' (%d)' % os.getpid()
 
         scraper = self.plugin.get_scraper()
         scraper.scrape()
@@ -67,8 +67,19 @@ class ScraperEngine(object):
             time.sleep(1)
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    
+    parser.add_argument("-d", "--plugin-directory", help="Plugin directory", required=True)
+    parser.add_argument("-r", "--plugin-regexp", help="Load plugins that match regexp")
+
+    args = parser.parse_args()
+
+    scraper_engine = ScraperEngine(
+        plugin_dir=args.plugin_directory, 
+        filename_regexp=args.plugin_regexp
+    )
+
     print 'parent process %d' % os.getpid()
-    scraper_engine = ScraperEngine(plugin_dir='agents/')
     scraper_engine.run()
 
 
