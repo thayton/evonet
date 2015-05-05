@@ -82,7 +82,7 @@ class WeightmansScraper(object):
     def scrape(self):
         name_items = self.get_name_items()
         for name_item in name_items:
-            print 'scraping', name_item
+            #print 'scraping', name_item
             self.scrape_person(name_item)
 
 def get_scraper():
