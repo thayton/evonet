@@ -20,9 +20,18 @@ class PluginProcess(Process):
         self.start_time = None
         self.plugin = plugin
         super(PluginProcess, self).__init__()
-        
+
+    def __str__(self):
+        return self.plugin.__name__
+
     def run(self):
-        print '%s ' % self.plugin.__name__, self._name + ' (%d)' % os.getpid()
+        out = err = open("%s.log" % self.plugin.__name__, 'w', 0)
+
+        sys.stdout = os.fdopen(sys.stdout.fileno(), 'w', 0)
+
+        # redirect stdout and stderr to the log file opened above
+        os.dup2(out.fileno(), sys.stdout.fileno())
+        os.dup2(err.fileno(), sys.stderr.fileno())
 
         scraper = self.plugin.get_scraper()
         scraper.scrape()
@@ -52,7 +61,7 @@ class ScraperEngine(object):
             self.num_active = len(active_children())
         
     def run(self):
-        while len(self.process_list) > 0:
+        while len(self.process_list) > 0 or self.num_active > 0:
             self.launch_max_active()
 
             #
@@ -63,8 +72,9 @@ class ScraperEngine(object):
                     run_time = datetime.now() - p.start_time
                     if p.is_alive() and run_time > self.max_run_time:
                         p.terminate()
-                
+
             time.sleep(1)
+            self.num_active = len(active_children())
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
