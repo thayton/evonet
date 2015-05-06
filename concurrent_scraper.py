@@ -16,16 +16,19 @@ def sigint(signo, frame):
 signal.signal(signal.SIGINT, sigint)
 
 class PluginProcess(Process):
-    def __init__(self, plugin):
+    def __init__(self, plugin, result_dir='./'):
         self.start_time = None
         self.plugin = plugin
+        self.result_dir = result_dir
         super(PluginProcess, self).__init__()
 
     def __str__(self):
         return self.plugin.__name__
 
     def run(self):
-        out = err = open("%s.log" % self.plugin.__name__, 'w', 0)
+        res = os.path.join(self.result_dir, '%s.result' % self.plugin.__name__)
+        print res
+        out = err = open(res, 'w', 0)
 
         sys.stdout = os.fdopen(sys.stdout.fileno(), 'w', 0)
 
@@ -37,7 +40,7 @@ class PluginProcess(Process):
         scraper.scrape()
 
 class ScraperEngine(object):
-    def __init__(self, plugin_dir, filename_regexp=None, max_active=5, max_run_time=None):
+    def __init__(self, plugin_dir, results_dir='./results/', filename_regexp=None, max_active=5, max_run_time=None):
         self.num_active = 0
         self.max_active = max_active
         self.max_run_time = max_run_time
@@ -45,7 +48,7 @@ class ScraperEngine(object):
         self.plugin_loader = PluginLoader(filename_regexp)
         self.plugin_loader.load_plugins([plugin_dir])
 
-        self.process_list = [ PluginProcess(p) for p in self.plugin_loader.plugins ]    
+        self.process_list = [ PluginProcess(plugin=p, result_dir=results_dir) for p in self.plugin_loader.plugins ]    
 
     def launch_max_active(self):
         '''
@@ -80,13 +83,17 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     
     parser.add_argument("-d", "--plugin-directory", help="Plugin directory", required=True)
-    parser.add_argument("-r", "--plugin-regexp", help="Load plugins that match regexp")
+    parser.add_argument("-i", "--plugin-regexp", help="Only Load plugins that match regexp")
+    parser.add_argument("-r", "--results-dir", help="Directory used to store results", default="./results/")
+    parser.add_argument("-p", "--max-processes", help="Max number of processes to run concurrently", default=5)
 
     args = parser.parse_args()
 
     scraper_engine = ScraperEngine(
         plugin_dir=args.plugin_directory, 
-        filename_regexp=args.plugin_regexp
+        results_dir=args.results_dir,
+        filename_regexp=args.plugin_regexp,
+        max_active=args.max_processes
     )
 
     print 'parent process %d' % os.getpid()
